@@ -1,0 +1,59 @@
+@media only screen and (max-width: 320px), only screen and (max-device-width: 320px) {
+	header {
+		font-size: 10px;
+		height: 40px;
+	}
+
+	.menu {
+		color: #ebebeb;
+		margin: 1rem 5vw;
+	}
+	
+	.mmenu {
+		padding: 2px 12px;
+		font-size: 30px;
+	}
+	
+	.imag{
+		width: 100%;
+		padding-top: 40%;
+		padding-bottom: 40%;
+	}
+
+	.blockp{
+		width: 100%;
+		height: 100%;
+	}
+
+	.ban h2{
+		font-size: 16px;
+	}
+
+	.ban{
+		padding: 50px 15% 50px 10%;
+		font-size: 11px;
+	}
+
+	.text {
+		padding-top: 10px;
+	}
+
+	.box h2{
+		font-size: 11px;
+	}
+
+	.text  h1 {
+		padding: 8px;
+		font-size: 16pt;
+	}
+
+	.texti p {
+		margin-left: 8px;
+		margin-right: 8px;
+		font-size: 14px;
+	}
+
+	.hide {
+		display: none;
+	}
+}

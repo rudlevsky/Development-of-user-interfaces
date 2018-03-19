@@ -1,0 +1,65 @@
+@media only screen and (max-width: 640px), only screen and (max-device-width: 640px) {
+	header {
+		display: flex;
+		justify-content: space-between;
+		font-size: 21px;
+		height: 75px;
+	}
+
+	header p {
+		display: none;
+	}
+
+	.menu {
+		display: block;
+		color: #ebebeb;
+		margin: 27px 5vw;
+	}
+
+	.mmenu {
+		display: block;
+		padding: 7px 30px 7px 30px;
+		font-size: 50px;
+		color: #ebebeb;
+		background-color: #202529;
+	}
+
+	.block{
+		display: flex;
+		flex-flow: column nowrap;
+	}
+	
+	.imag{
+		width: 100%;
+		padding-top: 40%;
+		padding-bottom: 40%; 
+
+	}
+
+	.blockp{
+		width: 100%;
+		height: 100%;
+	}
+
+	.ban h2{
+		font-size: 30px;
+	}
+
+	.ban {
+		padding: 100px 10% 100px 5%;
+		font-size: 18px;
+	}
+
+	.box h2{
+		font-size: 18px;
+	}
+
+	.text h1 {
+		font-size: 23pt;
+		color: #088ca5;
+	}
+
+	.hide {
+		display: none;
+	}
+}

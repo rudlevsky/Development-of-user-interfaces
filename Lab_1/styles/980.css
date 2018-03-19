@@ -1,0 +1,14 @@
+@media only screen and (max-width: 980px), only screen and (max-device-width: 980px) {
+	.ban h2{
+		font-size: 60px;
+	}
+
+	.ban{
+		padding: 120px 10% 120px 5%;
+		font-size: 25px;
+	}
+	
+	.box h2{
+		font-size: 25px;
+	}
+}
